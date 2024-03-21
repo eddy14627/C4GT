@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Adarsh Mishra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/eddy14627</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/adarsh-mishra-758908188/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Institute of Engineering and Management, Kolkata</td>
+  </tr>
+</table>
